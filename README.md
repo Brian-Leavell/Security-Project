@@ -1,2 +1,2 @@
 # Secutiry-Project
-Small project to practice pythin skills and website interface design
+Small project to practice python skills and website interface design
